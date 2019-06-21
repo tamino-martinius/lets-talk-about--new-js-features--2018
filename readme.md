@@ -1,10 +1,12 @@
-# Lets talk about - SAM (Serverless Application Model)
+# Lets Talk about ... Whats new (and upcoming) in JS (2019 Edition)
 
-[View Slides](https://lets-talk-about--new-js-features.taminomartinius.de)
+[View Slides](https://lets-talk-about--new-js-features--2018.tamino.dev)
 
 ## Links
 
-[List of new js features](https://github.com/lukehoban/es6features/)
+[List of features added lately to v8](https://v8.dev/features)
+
+[List of proposals](https://github.com/tc39/proposals)
 
 [Babel Playground](https://babeljs.io/repl/)
 
